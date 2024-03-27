@@ -1,0 +1,13 @@
+/home/v/IdeaProjects/GRPC_Server_Client/src/main/java/com/example/grpc/server/NumberSequenceServiceImpl.java
+/home/v/IdeaProjects/GRPC_Server_Client/src/main/java/com/example/grpc/utils/SequenceEmitter.java
+/home/v/IdeaProjects/GRPC_Server_Client/target/generated-sources/protobuf/java/com/example/grpc/protobuf/generated/NumberSequenceRequest.java
+/home/v/IdeaProjects/GRPC_Server_Client/src/main/java/com/example/grpc/Constants.java
+/home/v/IdeaProjects/GRPC_Server_Client/src/main/java/com/example/grpc/server/NumberGenerator.java
+/home/v/IdeaProjects/GRPC_Server_Client/src/main/java/com/example/grpc/Client.java
+/home/v/IdeaProjects/GRPC_Server_Client/target/generated-sources/protobuf/java/com/example/grpc/protobuf/generated/NumberSequenceReplyOrBuilder.java
+/home/v/IdeaProjects/GRPC_Server_Client/target/generated-sources/protobuf/java/com/example/grpc/protobuf/generated/NumberSequenceRequestOrBuilder.java
+/home/v/IdeaProjects/GRPC_Server_Client/src/main/java/com/example/grpc/Server.java
+/home/v/IdeaProjects/GRPC_Server_Client/target/generated-sources/protobuf/java/com/example/grpc/protobuf/generated/NumberSequenceReply.java
+/home/v/IdeaProjects/GRPC_Server_Client/target/generated-sources/protobuf/java/com/example/grpc/protobuf/generated/NumberSequenceStreamingProto.java
+/home/v/IdeaProjects/GRPC_Server_Client/src/main/java/com/example/grpc/client/ClientNumberObserver.java
+/home/v/IdeaProjects/GRPC_Server_Client/target/generated-sources/protobuf/grpc-java/com/example/grpc/protobuf/generated/NumberSequenceServiceGrpc.java
